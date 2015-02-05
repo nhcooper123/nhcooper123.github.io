@@ -1,0 +1,27 @@
+# Site settings
+title: Natalie Cooper
+email: ncooper@tcd.ie
+description: "Macroevolution and macroecology research"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/nhcooper123
+  - title: github
+    url: http://github.com/nhcooper123
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Zoology Building
+  - line: Trinity College Dublin
+  - line: Dublin 2, Ireland
+
+# Build settings
+markdown: kramdown
+permalink: pretty
