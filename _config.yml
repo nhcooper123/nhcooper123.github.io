@@ -1,6 +1,6 @@
 # Site settings
 title: Natalie Cooper
-email: ncooper@tcd.ie
+email: nhcooper12@gmail.com
 description: "Macroevolution and macroecology research"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -18,9 +18,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Zoology Building
-  - line: Trinity College Dublin
-  - line: Dublin 2, Ireland
+  - line: Life Sciences Department
+  - line: Natural History Museum
+  - line: Cromwell Road, London
+  - line: SW7 5BD, UK
 
 # Build settings
 markdown: kramdown
