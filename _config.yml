@@ -1,7 +1,11 @@
 # Site settings
 title: Natalie Cooper
 email: nhcooper12@gmail.com
+url: https://nhcooper123.github.io
 description: "Macroevolution and macroecology research"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -9,12 +13,21 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# Footer settings
+footer:
+  copyright: Dr. Natalie Cooper
+  location: Location
+  social: Around the Web
+  credits: Credits
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/nhcooper123
   - title: github
     url: http://github.com/nhcooper123
+  - title: blog
+    url: http://BESMacro.github.io
 
 # Postal address (add as many lines as necessary)
 address:
@@ -22,6 +35,9 @@ address:
   - line: Natural History Museum
   - line: Cromwell Road, London
   - line: SW7 5BD, UK
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
